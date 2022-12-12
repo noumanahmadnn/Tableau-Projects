@@ -1,0 +1,9 @@
+In Green destinations HR Analytics Dashboard, we have used calculated fields to make the Cards like 
+Average monthly income, 
+Average job satisfaction, 
+employee count,
+attrition rate. 
+Employee count by age group, 
+Employee count by income, 
+Average income per age,  
+Employee count by years worked.
