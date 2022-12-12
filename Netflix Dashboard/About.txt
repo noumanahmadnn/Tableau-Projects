@@ -1,0 +1,15 @@
+Netflix, Inc. is an American subscription video on-demand over-the-top streaming service and production company based in Los Gatos, California.  
+It offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals.
+
+He wants a dashboard where they can track how well Netflix is doing.
+Total Movies and TV Shows by Year.
+Total Movies and TV Shows by Country.
+Top 10 Genre.
+Movies and TV Shows Distribution.
+Ratings.
+Desriptions.
+Date Added.
+Duration.
+Rating.
+Release Year.
+Genre.
