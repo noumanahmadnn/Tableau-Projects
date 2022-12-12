@@ -1,0 +1,8 @@
+Airbnb based in San Francisco, California, operates an online marketplace focused on short-term homestays and experiences. 
+The company acts as a broker and charges a commission from each booking. 
+We have data related to the east part of the united States.
+we need to know. 
+Avg Price Based on Zipcode,
+Top Regions Rating wise,
+Avg Price as per years,
+Top rating bed availability.
