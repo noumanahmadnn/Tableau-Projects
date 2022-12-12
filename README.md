@@ -1,2 +1,2 @@
 # Tableau-Projects
-It consists all tableau projects. 
+It consists all Tableau projects. 
