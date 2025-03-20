@@ -1,9 +1,0 @@
-San Francisco International Airport (SFO) is an international airport in an unincorporated area of San Mateo County, 
-13 miles (21 km) south of Downtown San Francisco. It has flights to points throughout North America and is a major gateway to Europe, the Middle East, Asia, and Australia.
-
-They want a dashboard where they can track flights details like:
-- Number of maximum and minimum flights in a day.
-- Day with having maximum flights.
-- Top 5 Routes from San Francisco which having maximum number of flights.
-- Top 5 Distance from San Francisco.
-- Map of flights.
